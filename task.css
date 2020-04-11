@@ -1,0 +1,12 @@
+:root{
+    font-size: 20px;
+}
+.parent{
+    background: red;
+    font-size: 20px;
+    width: 200px;
+}
+.child{
+    background: royalblue;
+    font-size: 2em;
+}
